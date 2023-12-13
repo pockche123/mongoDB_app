@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Banana milkshake",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Chocolate cake",
+    "healthy": false,
+    "vegetarian": false,
+    "votes": 0
+  },
+  {
+
+    "name": "Grapes",
+    "healthy": true,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Jammy dodgers",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Mango",
+    "healthy": true,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Marshmallow",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "M&Ms",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+ 
+    "name": "Oreo milkshake",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Peanuts",
+    "healthy": true,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+
+    "name": "Red velvet cake",
+    "healthy": false,
+    "vegetarian": false,
+    "votes": 0
+  },
+  {
+
+    "name": "Skittles",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+    "name": "Smarties",
+    "healthy": false,
+    "vegetarian": true,
+    "votes": 0
+  },
+  {
+    "name": "Victoria sponge",
+    "healthy": false,
+    "vegetarian": false,
+    "votes": 0
+  }
+]
